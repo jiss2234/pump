@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Node.js
+node_modules/
+dist/
+
+# Temporary files
+*.swp
+*.swo
